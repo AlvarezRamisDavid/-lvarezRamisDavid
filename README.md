@@ -1,6 +1,12 @@
 # AlvarezRamisDavid
 Llenguatges de Marques tarea-01
 
+HE PENJAT ELS ARCHIUS CREATS AMB ELS EXEMPLES Y HE SEGUIT AQUESTS ENLLAÇOS
+[GITHUB](http://htmlpreview.github.io/)
+[Tutorials FPGS](http://fpadistancia.caib.es/mod/page/view.php?id=70940)
+[GITHUB WIKI](https://ca.wikipedia.org/wiki/GitHub)
+[TUTORIAL MARKDOWN](http://www.markdowntutorial.com/)
+
 CURSIVA
 _not_
 
